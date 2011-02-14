@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+headers: <link rel="stylesheet" href="./css/resume.css" type="text/css" charset="utf-8" />
 ---
 <div class="page_content">
 	<div id="page_1">

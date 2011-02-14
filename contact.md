@@ -2,4 +2,6 @@
 layout: default
 title: Contact
 ---	
-[Adam.V.Duke@gmail.com](mailto:Adam.V.Duke@gmail.com)
+Email: [Adam.V.Duke@gmail.com](mailto:Adam.V.Duke@gmail.com)
+
+Twitter: [@adamvduke](http://twitter.com/adamvduke)
