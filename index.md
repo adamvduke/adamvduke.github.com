@@ -1,5 +1,6 @@
 ---
-title: Is this thing on?
+layout: analytics
+title: Home
 ---
-#Ohai
-Trying out github pages
+#### Welcome to adamvduke.com
+####I'm a software engineer specializing in Java and Objective-C. I love writing code, riding dirtbikes, and fixing things. In my free time I can generally be found doing one of them. iPhone development is my current code outlet beyond my full-time job.

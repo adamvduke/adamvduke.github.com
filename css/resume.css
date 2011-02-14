@@ -1,0 +1,12 @@
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;margin-top: 0px;margin-left: 0px;margin-bottom: 50px;width: 657px;}
+
+.sectionHeaderFontBold{font: bold 13px 'Arial';line-height: 16px;}
+.plainFont{font: 13px 'Arial';line-height: 16px;}
+.italicBoldFont{font: italic bold 13px 'Arial';line-height: 16px;}
+.mailtoFont{font: 13px 'Arial';text-decoration: underline;color: #000099;line-height: 16px;}
+
+
+.centered{text-align:center; margin-top: 10px; margin-bottom: 0px;}
+.centeredNoMargin{text-align:center; margin-top: 0px; margin-bottom: 0px;}
