@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /images/
-Disallow: /photos/
 Disallow: /css/
 Disallow: resume.html

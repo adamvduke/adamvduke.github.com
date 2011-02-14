@@ -1,5 +1,5 @@
 ---
-layout: analytics
+layout: default
 title: Fabrication
 ---
 #Coming Soon

@@ -1,5 +1,5 @@
 ---
-layout: analytics
+layout: default
 title: Home
 ---
 #### Welcome to adamvduke.com

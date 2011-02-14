@@ -1,5 +1,5 @@
 ---
-layout: analytics
+layout: default
 title: Resume
 ---
 <div class="page_content">
