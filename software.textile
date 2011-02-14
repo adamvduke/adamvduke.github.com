@@ -2,5 +2,5 @@
 layout: default
 title: Software
 ---
-# Checkout my codez on [github.com](http://github.com/adamvduke)
+h1. Checkout my codez on "github.com":http://github.com/adamvduke
 {% include twitter_widget.html %}
