@@ -1,3 +1,41 @@
+#globalheader { position:relative; display:block; width:816px; height:36px; margin:18px auto; z-index:9998; background:url(../images/globalheader.png) repeat-x;
+	font:12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+#globalheader #globalnav { position:relative; display:block; margin:0; padding:0; zoom:1; z-index:3; }
+#globalheader #globalnav:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+#globalheader #globalnav li { display:inline; }
+#globalheader #globalnav li a { float:left; width:204px; height:36px; position:relative; text-decoration:none; overflow:hidden; background:url(../images/globalnav.png) no-repeat; cursor:pointer; }
+
+/* ACTION STATES */
+#globalheader #globalnav li a { background-position:100% 0; outline:none; }
+#globalheader #globalnav li a.before { background-position:100% -36px; }
+#globalheader #globalnav li a:hover,
+#globalheader #globalnav li a:focus  { background-position:100% -72px; }
+#globalheader #globalnav li a:active { background-position:100% -108px; }
+
+#globalheader #globalnav li#gn-home a { background-position:0 0; }
+#globalheader #globalnav li#gn-home a.before { background-position:0 -36px; }
+#globalheader #globalnav li#gn-home a:hover,
+#globalheader #globalnav li#gn-home a:focus  { background-position:0 -72px; }
+#globalheader #globalnav li#gn-home a:active { background-position:0 -108px; }
+
+/* ON STATES */
+#globalheader.home     li#gn-home     a,
+#globalheader.resume   li#gn-resume   a,
+#globalheader.software li#gn-software a,
+#globalheader.contact  li#gn-contact  a { background-position:right -288px !important; }
+
+/* TEXT */
+#globalheader #globalnav li a span { 
+	display:block; 
+	height:30px; 
+	font-size:16px;
+	margin-left:32.5%;
+	margin-right:32.5%;
+	margin-top:10px;
+	color:#fff;
+}
+
 body{
   margin: 0;
 }
@@ -17,7 +55,7 @@ body{
 .page_header,
 .navigation_container,
 .page_content{
-  width: 800px;
+  width: 816px;
   margin: 0 auto;
 }
 
