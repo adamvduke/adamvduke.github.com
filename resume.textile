@@ -1,0 +1,55 @@
+---
+layout: default
+title: Resume
+---
+
+h4. EDUCATION
+
+*B.S. Computer Science*, Widener University, Chester, Pennsylvania, December 2007
+
+h4. ACTIVITIES and QUALIFICATIONS
+
+* Open source contributor to "github-services":https://github.com/github/github-services [1] and "Seriously":https://github.com/probablycorey/seriously [2]
+* Active in local development community: Philly JUG, BarCamp Philly, NoSql Summer, Agile Philly, Philly CocoaHeads
+* Mobile development on multiple platforms including: iPhone OS, and Windows Phone 7
+* Social coding a Ruby on Rails application utilizing GitHub for source control and Pivotal for issue tracking
+* Passionate about software engineering, software architecture, and computer science in general
+* Highly self-motivated with the ability to quickly adapt to new technology
+* Excellent communication and inter-personal skills, works well in a team environment
+* Strong Java and Objective-C engineer with a focus on object oriented design
+
+h4. EXPERIENCE
+
+h4. Software Engineer, Infor Global Solutions, Malvern, PA (June 2009 – Present)
+
+* Designed and built a Digital Asset Management component for LOB applications in Silverlight
+* Wrote an intelligent Silverlight file upload control and corresponding supportive services
+* Established internal best practices with regard to separation of concerns patterns, third-party framework usage, and unit testing
+* Authored a proof of concept for migrating an existing financial suite to a modern UI technology
+* Developed a Windows Phone 7 client application, to integrate with an existing enterprise backend
+
+h4. Applications Developer, Oracle Corp, Chester, PA (October 2007 – June 2009)
+
+* Participated in the development of the Oracle Insurance Shared Rules Engine
+* Implemented dynamic runtime Java source code generation, compilation, and execution
+* Executed a continuous integration strategy utilizing Ant, JUnit and Hudson
+* Mentored less experienced team members
+* Drafted/Published documentation regarding QA technical initiatives/procedures
+* Acted as manager, overseeing QA development resources, to ensure high quality quarterly releases
+* Authored design and implementation of internal applications and utilities
+* Managed software builds/deploys for 11 QA environments, continuously maintaining high availability
+* Worked with offshore contractors to coordinate QA efforts for quarterly certification
+
+h4. PROFICIENCIES
+
+* Application Servers, JBoss, Tomcat, WebLogic, WebSphere
+* Development Tools, Ant, CVS, Git, SVN, Eclipse, Hudson, Maven, Visual Studio, XCode
+* Frameworks, iOS, Hibernate, Spring, OSGi, Microsoft Silverlight
+* Operating Systems, OS X, UNIX, Windows
+* Programming Languages, Objective-C, Java, C, C#
+* RDBMS, DB2, MySQL, MSSQL Server, Oracle
+* Foreign Languages, Spanish
+
+fn1. github-services is a collection of configurable post commit hooks that can be added to github repositories
+
+fn2. Serioulsy is a wrapper around Apple's NSURLConnection class that provides asynchronous url request handling using Objective-C blocks
