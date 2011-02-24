@@ -1,9 +1,21 @@
+
+/* force a vertical scroll bar so that
+ * centered content doesn't shift between
+ * pages that need a scrollbar and those
+ * that don't
+*/
+html {
+	overflow-y: scroll;
+}
+
 .page_content{
   width: 816px;
   margin: 0 auto;
 }
 
-/* circle type bullets for ul elements with class type "a" */
+/* circle type bullets for ul elements
+ * with class type "a"
+*/
 ul.a {
 	list-style-type:circle; 
 	margin-top: 5px;
