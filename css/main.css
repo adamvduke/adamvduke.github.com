@@ -66,3 +66,12 @@ li.a{
 	margin-top: 0px; 
 	margin-bottom: 0px;
 }
+
+.afn
+{
+	font:11px 'Arial';
+	text-align:center;
+	margin-top:30;
+	margin-bottom:0;
+	color:grey;
+}
