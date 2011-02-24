@@ -18,7 +18,7 @@ p{
 }
 
 /* font and placement for section headers*/
-p.centeredSectionHeader{
+p.csh{
 	font: bold 13px 'Arial';
 	line-height: 16px; 
 	text-align:center; 
