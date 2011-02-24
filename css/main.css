@@ -19,6 +19,12 @@ html {
 ul.a {
 	list-style-type:circle; 
 	margin-top: 5px;
+	margin-bottom:10px;
+}
+
+ul.title {
+	list-style-type:none;
+	margin-top: 5px;
 }
 
 /* font for p tags*/

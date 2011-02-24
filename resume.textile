@@ -5,7 +5,7 @@ title: Resume
 
 p(csh).  EDUCATION
 
-p(title). *B.S. Computer Science*, Widener University, Chester, Pennsylvania, December 2007
+(title)* _*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2007
 
 p(csh).  ACTIVITIES and QUALIFICATIONS
 
@@ -19,7 +19,7 @@ p(csh).  ACTIVITIES and QUALIFICATIONS
 
 p(csh).  EXPERIENCE
 
-p(title). *Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
+(title)* *Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
 
 (a)*(a) Designed and built a Digital Asset Management component for LOB applications in Silverlight
 *(a) Wrote an intelligent Silverlight file upload control and corresponding supportive services
@@ -27,7 +27,7 @@ p(title). *Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 �
 *(a) Authored a proof of concept for migrating an existing financial suite to a modern UI technology
 *(a) Developed a Windows Phone 7 client application, to integrate with an existing enterprise backend
 
-p(title). *Applications Developer*, Oracle Corp, Chester, PA (October 2007 – June 2009)
+(title)* *Applications Developer*, Oracle Corp, Chester, PA (October 2007 – June 2009)
 
 (a)*(a) Participated in the development of the Oracle Insurance Shared Rules Engine
 *(a) Implemented dynamic runtime Java source code generation, compilation, and execution
