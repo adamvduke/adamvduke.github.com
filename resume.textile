@@ -3,11 +3,11 @@ layout: default
 title: Resume
 ---
 
-p(centeredSectionHeader). EDUCATION
+p(centeredSectionHeader).  EDUCATION
 
 p(title). *B.S. Computer Science*, Widener University, Chester, Pennsylvania, December 2007
 
-p(centeredSectionHeader). ACTIVITIES and QUALIFICATIONS
+p(centeredSectionHeader).  ACTIVITIES and QUALIFICATIONS
 
 (a)*(a) Open source contributor to github-services [1] and Seriously [2]
 *(a) Active in local development community: Philly JUG, BarCamp Philly, NoSql Summer, Agile Philly, Philly CocoaHeads
@@ -17,7 +17,7 @@ p(centeredSectionHeader). ACTIVITIES and QUALIFICATIONS
 *(a) Excellent communication and inter-personal skills, works well in a team environment
 *(a) Strong Java and Objective-C engineer with a focus on object oriented design
 
-p(centeredSectionHeader). EXPERIENCE
+p(centeredSectionHeader).  EXPERIENCE
 
 p(title). *Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
 
@@ -39,7 +39,7 @@ p(title). *Applications Developer*, Oracle Corp, Chester, PA (October 2007 – J
 *(a) Managed software builds/deploys for 11 QA environments, continuously maintaining high availability
 *(a) Worked with offshore contractors to coordinate QA efforts for quarterly certification
 
-p(centeredSectionHeader). PROFICIENCIES
+p(centeredSectionHeader).  PROFICIENCIES
 
 (a)*(a) *Application Servers*, Google App Engine, JBoss, Tomcat, WebLogic, WebSphere
 *(a) *Development Tools*, Ant, CVS, Git, SVN, Eclipse, Hudson, Maven, Visual Studio, XCode
