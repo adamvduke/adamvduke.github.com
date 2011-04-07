@@ -6,3 +6,7 @@ title: Home
 Welcome to adamvduke.com
 
 I'm a software engineer specializing in Java and Objective-C. I love writing code, riding dirtbikes, and fixing things. In my free time I can generally be found doing one of them. iPhone development is my current code outlet beyond my full-time job.
+
+{% for post in site.posts %}
+*(a) <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
