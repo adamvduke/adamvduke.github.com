@@ -3,11 +3,11 @@ layout: default
 title: Resume
 ---
 
-p(csh).  EDUCATION
+h1.  Education
 
-(title)* _*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2007
+_*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2007
 
-p(csh).  ACTIVITIES and QUALIFICATIONS
+h1. Activities and Qualifications
 
 (a)*(a) Open source contributor to github-services [1] and Seriously [2]
 *(a) Active in local development community: Philly JUG, BarCamp Philly, NoSql Summer, Agile Philly, Philly CocoaHeads
@@ -17,9 +17,9 @@ p(csh).  ACTIVITIES and QUALIFICATIONS
 *(a) Excellent communication and inter-personal skills, works well in a team environment
 *(a) Strong Java and Objective-C engineer with a focus on object oriented design
 
-p(csh).  EXPERIENCE
+h1.  Experience
 
-(title)* *Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
+*Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
 
 (a)*(a) Designed and built a Digital Asset Management component for LOB applications in Silverlight
 *(a) Wrote an intelligent Silverlight file upload control and corresponding supportive services
@@ -27,7 +27,7 @@ p(csh).  EXPERIENCE
 *(a) Authored a proof of concept for migrating an existing financial suite to a modern UI technology
 *(a) Developed a Windows Phone 7 client application, to integrate with an existing enterprise backend
 
-(title)* *Applications Developer*, Oracle Corp, Chester, PA (October 2007 – June 2009)
+*Applications Developer*, Oracle Corp, Chester, PA (October 2007 – June 2009)
 
 (a)*(a) Participated in the development of the Oracle Insurance Shared Rules Engine
 *(a) Implemented dynamic runtime Java source code generation, compilation, and execution
@@ -39,7 +39,7 @@ p(csh).  EXPERIENCE
 *(a) Managed software builds/deploys for 11 QA environments, continuously maintaining high availability
 *(a) Worked with offshore contractors to coordinate QA efforts for quarterly certification
 
-p(csh).  PROFICIENCIES
+h1.  Proficiencies
 
 (a)*(a) *Application Servers*, Google App Engine, JBoss, Tomcat, WebLogic, WebSphere
 *(a) *Development Tools*, Ant, CVS, Git, SVN, Eclipse, Hudson, Maven, Visual Studio, XCode

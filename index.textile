@@ -1,12 +1,25 @@
 ---
 layout: default
-title: Home
+title: Adam Vincent Duke
 ---
 
-Welcome to adamvduke.com
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
-I'm a software engineer specializing in Java and Objective-C. I love writing code, riding dirtbikes, and fixing things. In my free time I can generally be found doing one of them. iPhone development is my current code outlet beyond my full-time job.
-
-{% for post in site.posts %}
-*(a) <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+  <h1>Codez</h1>
+  <ul class="posts">
+    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> A Twitter engine, with Objective-C blocks for callbacks</li>
+    <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/adamvduke/Presence">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
+  </ul>
+  <h1>Open Source Contributions</h1>
+  <ul class="posts">
+    <li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
+    <li><a href="https://github.com/github/github-services">github-services:</a> Official GitHub Services Integration </li>
+  </ul>
+</div>
