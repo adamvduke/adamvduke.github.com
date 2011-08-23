@@ -13,7 +13,7 @@ title: Adam Vincent Duke
 
   <h1>Codez</h1>
   <ul class="posts">
-    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> An MGTwitter Engine Replacement, with Objective-C blocks for callbacks</li>
+    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
     <li><a href="https://github.com/adamvduke/Presence">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
   </ul>
