@@ -13,7 +13,7 @@ title: Adam Vincent Duke
 
   <h1>Codez</h1>
   <ul class="posts">
-    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> A Twitter engine, with Objective-C blocks for callbacks</li>
+    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> An MGTwitter Engine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
     <li><a href="https://github.com/adamvduke/Presence">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
   </ul>
@@ -21,5 +21,7 @@ title: Adam Vincent Duke
   <ul class="posts">
     <li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
     <li><a href="https://github.com/github/github-services">github-services:</a> Official GitHub Services Integration </li>
+    <li><a href="https://github.com/mxcl/homebrew">homebrew:</a> The missing package manager for OS X </li>
+    <li><a href="https://github.com/adamvduke/github-tmbundle">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
   </ul>
 </div>
