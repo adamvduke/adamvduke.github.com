@@ -3,24 +3,23 @@ layout: default
 title: Adam Vincent Duke
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+<div>
+  <h2>Posts</h2>
+  <ul>
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-
-  <h1>Codez</h1>
-  <ul class="posts">
+  <h2>Open Source Projects</h2>
+  <ul>
     <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
     <li><a href="https://github.com/adamvduke/Presence">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
     <li><a href="https://github.com/adamvduke/node-apn-server">node-apn-server:</a> An http server written in Node.js to send apple push notifications</li>
-</ul>
-  <h1>Open Source Contributions</h1>
-  <ul class="posts">
-    <li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
+  </ul>
+  <h2>Open Source Contributions</h2>
+  <ul>
+	<li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
     <li><a href="https://github.com/github/github-services">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
     <li><a href="https://github.com/defunkt/dotjs">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>

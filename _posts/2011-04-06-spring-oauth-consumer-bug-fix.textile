@@ -5,7 +5,7 @@ title: Fixing Spring's CoreOAuthConsumerSupport
 
 h1. {{ page.title }}
 
-p(meta). 06 April 2011
+06 April 2011
 
 *The Background*
 
