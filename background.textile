@@ -3,11 +3,11 @@ layout: default
 title: Resume
 ---
 
-h1.  Education
+h2.  Education
 
 _*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2007
 
-h1. Activities and Qualifications
+h2. Activities and Qualifications
 
 (a)*(a) Contributor multiple prominent open source projects
 *(a) Active in local development community
@@ -22,7 +22,7 @@ h1. Activities and Qualifications
 *(a) Highly self-motivated with the ability to quickly adapt to new technology
 *(a) Excellent communication and inter-personal skills, works well in a team environment
 
-h1.  Experience
+h2.  Experience
 
 *VP Mobile Engineering*, appRenaissance LLC, Philadelphia, PA (June 2011 – Present)
 
@@ -51,7 +51,7 @@ h1.  Experience
 *(a) Managed software builds/deploys for 11 QA environments, continuously maintaining high availability
 *(a) Worked with offshore contractors to coordinate QA efforts for quarterly certification
 
-h1.  Proficiencies
+h2.  Proficiencies
 
 (a)*(a) *Application Servers*, Google App Engine, JBoss, Tomcat, WebLogic, WebSphere
 *(a) *Development Tools*, Ant, Git, SVN, Eclipse, Hudson, Maven, XCode

@@ -384,6 +384,15 @@ that a gist provides. This seems like a hack, but works for now. */
 	width: 98%;
 }
 
+.header_link_list li{
+	display: inline;
+    list-style-type: none;
+}
+
+ul.header_link_list {
+	margin-bottom: 0px;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
