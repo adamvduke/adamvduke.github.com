@@ -9,13 +9,18 @@ _*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2
 
 h1. Activities and Qualifications
 
-(a)*(a) Open source contributor to github-services [1] and Seriously [2]
-*(a) Active in local development community: Philly JUG, BarCamp Philly, NoSql Summer, Agile Philly, Philly CocoaHeads
-*(a) Mobile development on multiple platforms including: iPhone OS, and Windows Phone 7
+(a)*(a) Contributor multiple prominent open source projects
+*(a) Active in local development community
+**(a) Agile Philly
+**(a) BarCamp Philly
+**(a) Philly CocoaHeads
+**(a) Philly JUG
+**(a) Philly.rb
+**(a) NoSql Summer
+*(a) Mobile development on multiple platforms including: iOS, and Windows Phone 7
 *(a) Passionate about software engineering, software architecture, and computer science in general
 *(a) Highly self-motivated with the ability to quickly adapt to new technology
 *(a) Excellent communication and inter-personal skills, works well in a team environment
-*(a) Strong Java and Objective-C engineer with a focus on object oriented design
 
 h1.  Experience
 
@@ -30,7 +35,7 @@ h1.  Experience
 
 (a)*(a) Designed and built a Digital Asset Management component for LOB applications in Silverlight
 *(a) Wrote an intelligent Silverlight file upload control and corresponding supportive services
-*(a) Established internal best practices with regard to separation of concerns patterns, third-party framework usage, and unit testing
+*(a) Established internal best practices design patterns, third-party framework usage, and unit testing
 *(a) Authored a proof of concept for migrating an existing financial suite to a modern UI technology
 *(a) Developed a Windows Phone 7 client application, to integrate with an existing enterprise backend
 
@@ -49,13 +54,9 @@ h1.  Experience
 h1.  Proficiencies
 
 (a)*(a) *Application Servers*, Google App Engine, JBoss, Tomcat, WebLogic, WebSphere
-*(a) *Development Tools*, Ant, CVS, Git, SVN, Eclipse, Hudson, Maven, Visual Studio, XCode
-*(a) *Frameworks*, iOS, Hibernate, Spring, OSGi, Microsoft Silverlight
+*(a) *Development Tools*, Ant, Git, SVN, Eclipse, Hudson, Maven, XCode
+*(a) *Frameworks*, iOS, Hibernate, Ruby on Rails, Spring, OSGi, Microsoft Silverlight
 *(a) *Operating Systems*, OS X, Linux variants, UNIX, Windows
 *(a) *Programming Languages*, Bash, C, C#, Java, Objective-C, Python, Ruby
 *(a) *RDBMS*, DB2, MySQL, MSSQL Server, Oracle
 *(a) *Foreign Languages*, Spanish
-
-fn1. "github-services":https://github.com/github/github-services is a collection of configurable post commit hooks that can be added to github repositories
-
-fn2. "Serioulsy":https://github.com/probablycorey/seriously is a wrapper around Apple's NSURLConnection class that provides asynchronous url request handling using Objective-C blocks
