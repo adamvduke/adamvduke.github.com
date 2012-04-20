@@ -19,7 +19,14 @@ h1. Activities and Qualifications
 
 h1.  Experience
 
-*Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – Present)
+*VP Mobile Engineering*, appRenaissance LLC, Philadelphia, PA (June 2011 – Present)
+
+(a)*(a) Implemented Agile project workflows to maximize client value
+*(a) Made technology decisions to minimize cost and maximize scalability
+*(a) Developed and Deployed multiple client applications to the Apple App Store
+*(a) Built backend services to support mobile client applications
+
+*Software Engineer*, Infor Global Solutions, Malvern, PA (June 2009 – June 2011)
 
 (a)*(a) Designed and built a Digital Asset Management component for LOB applications in Silverlight
 *(a) Wrote an intelligent Silverlight file upload control and corresponding supportive services
