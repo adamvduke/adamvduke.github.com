@@ -28,6 +28,7 @@ title: Adam Vincent Duke
 	<li><a href="https://github.com/mxcl/homebrew">homebrew:</a> The missing package manager for OS X </li>
     <li><a href="https://github.com/guicocoa/hoptoad-ios">hoptoad-ios:</a> A Hoptoad (Airbrake) Notifier for iOS </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView">KKGridView:</a> An easy to use grid control for iOS </li>
+    <li><a href="https://github.com/jverkoey/nimbus">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
 	<li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
 	<li><a href="https://github.com/mitchellh/vagrant">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li> 
     <li><a href="https://github.com/robbiehanson/XMPPFramework">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
