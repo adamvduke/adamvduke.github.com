@@ -21,6 +21,7 @@ title: Adam Vincent Duke
   </ul>
   <h2>Open Source Contributions</h2>
   <ul>
+    <li><a href="https://github.com/airbrake/airbrake">airbrake:</a> The official Airbrake library for Ruby on Rails. </li>
     <li><a href="https://github.com/defunkt/dotjs">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
     <li><a href="https://github.com/facebook/facebook-ios-sdk">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
     <li><a href="https://github.com/github/github-services">github-services:</a> Official GitHub Services Integration </li>
