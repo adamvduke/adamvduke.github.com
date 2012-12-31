@@ -12,26 +12,26 @@ title: Adam Vincent Duke
   </ul>
   <h2>Open Source Projects</h2>
   <ul>
-    <li><a href="https://github.com/adamvduke/ADEngineBlock/">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
-	<li><a href="https://github.com/adamvduke/ADiOSUtilities">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
-    <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
-    <li><a href="https://github.com/adamvduke/phillytechcalendar">phillytechcalendar:</a> Philly tech community events all in one place, woot!</li>
-    <li><a href="https://github.com/adamvduke/Presence">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
-    <li><a href="https://github.com/adamvduke/node-apn-server">node-apn-server:</a> An http server written in Node.js to send apple push notifications</li>
+    <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
+	<li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
+    <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/adamvduke/phillytechcalendar" target="_blank">phillytechcalendar:</a> Philly tech community events all in one place, woot!</li>
+    <li><a href="https://github.com/adamvduke/Presence" target="_blank">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
+    <li><a href="https://github.com/adamvduke/node-apn-server" target="_blank">node-apn-server:</a> An http server written in Node.js to send apple push notifications</li>
   </ul>
   <h2>Open Source Contributions</h2>
   <ul>
-    <li><a href="https://github.com/airbrake/airbrake">airbrake:</a> The official Airbrake library for Ruby on Rails. </li>
-    <li><a href="https://github.com/defunkt/dotjs">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
-    <li><a href="https://github.com/facebook/facebook-ios-sdk">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
-    <li><a href="https://github.com/github/github-services">github-services:</a> Official GitHub Services Integration </li>
-    <li><a href="https://github.com/adamvduke/github-tmbundle">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
-	<li><a href="https://github.com/mxcl/homebrew">homebrew:</a> The missing package manager for OS X </li>
-    <li><a href="https://github.com/guicocoa/hoptoad-ios">hoptoad-ios:</a> A Hoptoad (Airbrake) Notifier for iOS </li>
-    <li><a href="https://github.com/kolinkrewinkel/KKGridView">KKGridView:</a> An easy to use grid control for iOS </li>
-    <li><a href="https://github.com/jverkoey/nimbus">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
-	<li><a href="https://github.com/probablycorey/seriously">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
-	<li><a href="https://github.com/mitchellh/vagrant">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li> 
-    <li><a href="https://github.com/robbiehanson/XMPPFramework">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
+    <li><a href="https://github.com/airbrake/airbrake" target="_blank">airbrake:</a> The official Airbrake library for Ruby on Rails. </li>
+    <li><a href="https://github.com/airbrake/airbrake-ios" target="_blank">airbrake-ios:</a> An Airbrake Notifier for iOS </li>
+    <li><a href="https://github.com/defunkt/dotjs" target="_blank">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
+    <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
+    <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
+    <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
+	<li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
+    <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
+    <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
+	<li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
+	<li><a href="https://github.com/mitchellh/vagrant" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
+    <li><a href="https://github.com/robbiehanson/XMPPFramework" target="_blank">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
   </ul>
 </div>
