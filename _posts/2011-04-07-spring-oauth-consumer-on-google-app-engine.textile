@@ -14,11 +14,11 @@ After "fixing CoreOAuthConsumerSupport":/2011/04/06/spring-oauth-consumer-bug-fi
 *The Fix*
 In this case the fix is pretty easy because the CoreOAuthConsumerSupport class isn't highly dependent on the functionality of the restricted classes. In addition to using the getAuthorizationHeader method from "my last post":/2011/04/06/spring-oauth-consumer-bug-fix.html, I had to remove the proxySelector instance variable along with it's getter/setter, the selectProxy method, and modify the openConnection method not to call selectProxy. Instead of calling  
 
-<script src="https://gist.github.com/950315.js?file=snippet.html"></script>
+<script src="https://gist.github.com/950315.js"></script>
 
 it simply calls
 
-<script src="https://gist.github.com/950317.js?file=snippet.html"></script>
+<script src="https://gist.github.com/950317.js"></script>
 
 instead.
 
