@@ -28,6 +28,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
+    <li><a href="https://github.com/adamvduke/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
     <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
