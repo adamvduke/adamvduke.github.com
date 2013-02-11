@@ -13,7 +13,7 @@ title: Adam Vincent Duke
   <h2>Open Source Projects</h2>
   <ul>
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
-	<li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
+    <li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
     <li><a href="https://github.com/adamvduke/phillytechcalendar" target="_blank">phillytechcalendar:</a> Philly tech community events all in one place, woot!</li>
     <li><a href="https://github.com/adamvduke/Presence" target="_blank">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
@@ -27,11 +27,11 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
-	<li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
+    <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
-	<li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
-	<li><a href="https://github.com/mitchellh/vagrant" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
+    <li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
+    <li><a href="https://github.com/mitchellh/vagrant" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
     <li><a href="https://github.com/robbiehanson/XMPPFramework" target="_blank">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
   </ul>
 </div>
