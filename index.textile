@@ -32,6 +32,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
+    <li><a href="https://github.com/FooBarWidget/passenger" target="_blank">passenger:</a> Phusion Passenger application server for Ruby, Python, Node.js and more </li>
     <li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
     <li><a href="https://github.com/dmolsen/Throttle" target="_blank">Throttle:</a> A node.js app to help test how a website performs on poor network connections. </li>
     <li><a href="https://github.com/mitchellh/vagrant" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
