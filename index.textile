@@ -10,6 +10,10 @@ title: Adam Vincent Duke
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <h2>Talks</h2>
+  <ul>
+    <li><a href="https://speakerdeck.com/adamvduke/ios-push-notifications-zero-to-engagement" target="_blank">iOS Push Notifications - Zero To Engagement</a></li>
+  </ul>
   <h2>Open Source Projects</h2>
   <ul>
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
