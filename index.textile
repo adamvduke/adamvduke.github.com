@@ -34,6 +34,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
     <li><a href="https://github.com/adamvduke/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
     <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
+    <li><a href="https://github.com/heroku/kensa" target="_blank">kensa:</a> A tool to help Heroku add-on providers integrate their services with Heroku </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
     <li><a href="https://github.com/FooBarWidget/passenger" target="_blank">passenger:</a> Phusion Passenger application server for Ruby, Python, Node.js and more </li>
