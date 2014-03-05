@@ -19,10 +19,18 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/adamvduke/FMDB-Helper" target="_blank">FMDB-Helper:</a> Classes to help when using Sqlite and FMDB</li>
+    <li><a href="https://github.com/SymmetricInfinity/heroku_addon_provider" target="_blank">heroku_addon_provider:</a> A gem for abstracting some heroku addon provider logic</li>
+    <li><a href="https://github.com/adamvduke/MBProgressHUDExtensions" target="_blank">MBProgressHUDExtensions:</a> UIViewController extensions for displaying an MBProgressHUD</li>
     <li><a href="https://github.com/adamvduke/mod_interact" target="_blank">mod_interact:</a> An module to forward certain ejabberd notifications to an arbitrary url</li>
     <li><a href="https://github.com/adamvduke/node-apn-server" target="_blank">node-apn-server:</a> An http server written in Node.js to send apple push notifications</li>
     <li><a href="https://github.com/adamvduke/phillytechcalendar" target="_blank">phillytechcalendar:</a> Philly tech community events all in one place, woot!</li>
     <li><a href="https://github.com/adamvduke/Presence" target="_blank">Presence:</a> A Twitter client implemented as a learning tool for iOS</li>
+    <li><a href="https://github.com/SymmetricInfinity/push_package" target="_blank">push_package:</a> A gem for creating Safari push notification push packages</li>
+    <li><a href="https://github.com/adamvduke/sinatra-omniauth-instagram" target="_blank">sinatra-omniauth-instagram:</a> A sinatra app using omniauth with instagram as the provider</li>
+    <li><a href="https://github.com/SymmetricInfinity/up_to_date" target="_blank">up_to_date:</a> A gem for keeping your gems up to date</li>
+    <li><a href="https://github.com/SymmetricInfinity/zero_push" target="_blank">zero_push:</a> The gem for interacting with <a href="https://zeropush.com" target="_blank">ZeroPush's</a> API</li>
+    <li><a href="https://github.com/SymmetricInfinity/ZeroPush-iOS" target="_blank">ZeroPush-iOS:</a> The iOS lib for <a href="https://zeropush.com" target="_blank">ZeroPush</a></li>
   </ul>
   <h2>Open Source Contributions</h2>
   <ul>
@@ -32,10 +40,13 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
-    <li><a href="https://github.com/adamvduke/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
+    <li><a href="https://github.com/grocer/grocer" target="_blank">grocer:</a> Pushing your Apple notifications since 2012 </li>
+    <li><a href="https://github.com/heroku/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
     <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
+    <li><a href="https://github.com/isaiah/jubilee" target="_blank">jubilee:</a> A rack server built upon the high performance vert.x platform </li>
     <li><a href="https://github.com/heroku/kensa" target="_blank">kensa:</a> A tool to help Heroku add-on providers integrate their services with Heroku </li>
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
+    <li><a href="https://github.com/google/lmctfy" target="_blank">lmctfy:</a> the open source version of Google’s container stack, which provides Linux application containers. </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
     <li><a href="https://github.com/FooBarWidget/passenger" target="_blank">passenger:</a> Phusion Passenger application server for Ruby, Python, Node.js and more </li>
     <li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
