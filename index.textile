@@ -42,6 +42,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
     <li><a href="https://github.com/grocer/grocer" target="_blank">grocer:</a> Pushing your Apple notifications since 2012 </li>
     <li><a href="https://github.com/heroku/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
+    <li><a href="https://github.com/github/hubot" target="_blank">hubot:</a> A customizable, kegerator-powered life embetterment robot. </li>
     <li><a href="https://github.com/mxcl/homebrew" target="_blank">homebrew:</a> The missing package manager for OS X </li>
     <li><a href="https://github.com/isaiah/jubilee" target="_blank">jubilee:</a> A rack server built upon the high performance vert.x platform </li>
     <li><a href="https://github.com/heroku/kensa" target="_blank">kensa:</a> A tool to help Heroku add-on providers integrate their services with Heroku </li>
