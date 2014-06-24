@@ -9,6 +9,19 @@
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
   <title>{{ page.title }}</title>
   {% include analytics.html %}
+  <script>
+    var _roost = _roost || [];
+    _roost.push(['appkey','e73860933ca747508d26a0c0da189c41']);
+
+    !function(d,s,id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if(!d.getElementById(id)){
+            js=d.createElement(s); js.id=id;
+            js.src='//get.roost.me/js/roost.js';
+            fjs.parentNode.insertBefore(js,fjs);
+        }
+    }(document, 'script', 'roost-js');
+  </script>
   </head>
   <body>
     <div class="site">
