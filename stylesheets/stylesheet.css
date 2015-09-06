@@ -3,7 +3,7 @@ Slate Theme for Github Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
 
-@import url(pygment_trac.css);
+@import url(github.css);
 
 /*******************************************************************************
 MeyerWeb Reset
@@ -80,7 +80,7 @@ h1 {
 
 h2 {
   padding-bottom: 10px;
-  font-size: 32px;
+  font-size: 27px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
