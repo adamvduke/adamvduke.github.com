@@ -3,9 +3,9 @@ layout: default
 title: Fixing Spring's CoreOAuthConsumerSupport
 ---
 
-h1. {{ page.title }}
+h2. {{ page.title }}
 
-06 April 2011
+Adam Duke | 06 April 2011
 
 *The Background*
 
