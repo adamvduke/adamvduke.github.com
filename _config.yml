@@ -1,4 +1,7 @@
 highlighter: pygments
+markdown: kramdown
 exclude: [Gemfile, Gemfile.lock, README.md]
 gems:
   - jekyll-textile-converter
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
