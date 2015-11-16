@@ -70,10 +70,9 @@ h2. Experience
 
 h2.  Proficiencies
 
-(a)*(a) *Application Servers*, Google App Engine, JBoss, Tomcat, WebLogic, WebSphere
-*(a) *Development Tools*, Ant, Git, SVN, Eclipse, Hudson, Maven, XCode
-*(a) *Frameworks*, iOS, Hibernate, Ruby on Rails, Spring, OSGi, Microsoft Silverlight
-*(a) *Operating Systems*, OS X, Linux variants, UNIX, Windows
+(a)*(a) *Application Servers*, Apache, Nginx, Passenger, Unicorn
+*(a) *Development Tools*, Chef, Git, Rails, Vim, XCode
+*(a) *Operating Systems*, OS X, Linux variants, UNIX
 *(a) *Programming Languages*, Bash, C, C#, Java, Objective-C, Python, Ruby
-*(a) *RDBMS*, DB2, MySQL, MSSQL Server, Oracle
+*(a) *RDBMS*, MySQL, Postgresql
 *(a) *Foreign Languages*, Spanish
