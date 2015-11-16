@@ -3,26 +3,43 @@ layout: default
 title: Background
 ---
 
-h2.  Education
+h2. Education
 
 _*B.S. Computer Science*_, Widener University, Chester, Pennsylvania, December 2007
+
+h2. Summary
+
+Experienced software engineer with a strong bias to shipping. Versed in many popular technologies. Interested in continually ensuring that the teams I work with are having the highest impact possible and building the next most important feature.
 
 h2. Activities and Qualifications
 
 (a)*(a) Contributor multiple prominent open source projects
-*(a) Active in local development community
-**(a) Agile Philly
-**(a) BarCamp Philly
-**(a) Philly CocoaHeads
-**(a) Philly JUG
-**(a) Philly.rb
-**(a) NoSql Summer
-*(a) Mobile development on multiple platforms including: iOS, and Windows Phone 7
 *(a) Passionate about software engineering, software architecture, and computer science in general
 *(a) Highly self-motivated with the ability to quickly adapt to new technology
 *(a) Excellent communication and inter-personal skills, works well in a team environment
 
-h2.  Experience
+h2. Experience
+
+*Software Engineer*, Twitter, Cambridge, MA (January 2014 – present)
+
+(a)*(a) Responsible for inviting the first 1000 customers to "Fabric":https://get.fabric.io at Twitter's inaugural developer conference
+*(a) Launched "get.fabric.io":https://get.fabric.io, the logged out experience for Fabric
+*(a) Launched "answers.io":https://answers.io, the marketing site for Twitter's Mobile Analytics product
+*(a) Launched "get.digits.com":https://get.digits.com, the logged out experience for Twitter's Mobile Identity product
+*(a) Mentored new team mates joining the Fabric Growth team
+*(a) Increased conversions from signup to confirmation by 70% for new Fabric customers
+
+*Co-Founder*, ZeroPush, Philadelphia, PA (January 2013 – September 2015)
+
+(a)*(a) "ZeroPush":https://zeropush.com was "acquired by Twitter":https://zeropush.com/acquisition in September 2015
+*(a) Bootstrapped a successful push notification platform focused on building great tools for developers
+*(a) Became a Heroku add-on provider allowing one click ZeroPush signup for Heroku customers
+
+*Co-Founder*, Symmetric Infinity LLC, Philadelphia, PA (January 2013 – September 2015)
+
+(a)*(a) "Symmetric Infinity":http://symmetricinfinity.com was "acquired by Twitter":https://zeropush.com/acquisition in September 2015
+*(a) Worked with clients in various industries to implement business solutions
+*(a) Sponsored local development community activities
 
 *VP Mobile Engineering*, appRenaissance LLC, Philadelphia, PA (June 2011 – September 2012)
 
