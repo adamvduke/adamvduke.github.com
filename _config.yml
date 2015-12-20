@@ -1,4 +1,4 @@
-markdown: rdiscount
-pygments: true
-auto:     true
-exclude: Gemfile, Gemfile.lock, README.md
+highlighter: pygments
+exclude: [Gemfile, Gemfile.lock, README.md]
+gems:
+  - jekyll-textile-converter
