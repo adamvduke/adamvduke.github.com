@@ -19,8 +19,11 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/adamvduke/docker-ruby-build" target="_blank">docker-ruby-build:</a> A projec to build ruby deb packages in a docker container</li>
     <li><a href="https://github.com/adamvduke/FMDB-Helper" target="_blank">FMDB-Helper:</a> Classes to help when using Sqlite and FMDB</li>
+    <li><a href="https://github.com/adamvduke/gem-in-a-container" target="_blank">gem-in-a-container:</a> A docker container running <a href="https://github.com/geminabox/geminabox" target="_blank">geminabox</a></li>
     <li><a href="https://github.com/SymmetricInfinity/heroku_addon_provider" target="_blank">heroku_addon_provider:</a> A gem for abstracting some heroku addon provider logic</li>
+    <li><a href="https://github.com/adamvduke/LikeList" target="_blank">LikeList:</a> Keep track of ALL of your likes on Instagram.</li>
     <li><a href="https://github.com/adamvduke/MBProgressHUDExtensions" target="_blank">MBProgressHUDExtensions:</a> UIViewController extensions for displaying an MBProgressHUD</li>
     <li><a href="https://github.com/adamvduke/mod_interact" target="_blank">mod_interact:</a> An module to forward certain ejabberd notifications to an arbitrary url</li>
     <li><a href="https://github.com/adamvduke/node-apn-server" target="_blank">node-apn-server:</a> An http server written in Node.js to send apple push notifications</li>
@@ -38,6 +41,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/airbrake/airbrake-ios" target="_blank">airbrake-ios:</a> An Airbrake Notifier for iOS </li>
     <li><a href="https://github.com/defunkt/dotjs" target="_blank">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
+    <li><a href="https://github.com/twitter-fabric/galley" target="_blank">galley:</a> Orchestrator for local Docker containers</li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
     <li><a href="https://github.com/grocer/grocer" target="_blank">grocer:</a> Pushing your Apple notifications since 2012 </li>
@@ -54,5 +58,6 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/dmolsen/Throttle" target="_blank">Throttle:</a> A node.js app to help test how a website performs on poor network connections. </li>
     <li><a href="https://github.com/mitchellh/vagrant" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
     <li><a href="https://github.com/robbiehanson/XMPPFramework" target="_blank">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
+    <li><a href="https://github.com/phstc/sidekiq-statsd" target="_blank">sidekiq-statsd:</a> A Sidekiq server middleware to send Sidekiq worker metrics through statsd</li>
   </ul>
 </div>
