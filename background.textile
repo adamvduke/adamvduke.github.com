@@ -11,13 +11,6 @@ h2. Summary
 
 Experienced software engineer with a strong bias to shipping. Versed in many popular technologies. Interested in continually ensuring that the teams I work with are having the highest impact possible and building the next most important feature.
 
-h2. Activities and Qualifications
-
-(a)*(a) Contributor multiple prominent open source projects
-*(a) Passionate about software engineering, software architecture, and computer science in general
-*(a) Highly self-motivated with the ability to quickly adapt to new technology
-*(a) Excellent communication and inter-personal skills, works well in a team environment
-
 h2. Experience
 
 *Software Engineer*, Twitter, Cambridge, MA (January 2014 – present)
@@ -68,7 +61,7 @@ h2. Experience
 *(a) Managed software builds/deploys for 11 QA environments, continuously maintaining high availability
 *(a) Worked with offshore contractors to coordinate QA efforts for quarterly certification
 
-h2.  Proficiencies
+h2. Technology
 
 (a)*(a) *Application Servers*, Apache, Nginx, Passenger, Unicorn
 *(a) *Development Tools*, Chef, Git, Rails, Vim, XCode
