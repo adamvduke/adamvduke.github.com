@@ -3,15 +3,18 @@ layout: default
 title: Facebook Real-time Updates in Rails on Heroku
 ---
 
-h2. {{ page.title }}
+## {{ page.title }}
 
-Adam Duke | 03 April 2012
+Adam Duke \| 03 April 2012
 
 One of our recent client apps depends heavily on accurate and up to date data from the Facebook Graph API. The first solution that we implemented relied on polling the API on a scheduled basis, but that proved not to be very scalable as the number of users in the system increased.
 
-The solution was to use Facebook's "Real-time Updates":http://developers.facebook.com/docs/reference/api/realtime/ feature. The general concept of the Real-time Updates feature is that an application subscribes to updates for a particular type of object (users, permissions, or pages). When one of those objects changes within Facebook, Facebook will make an http POST request to your application with data about which objects and which fields of those objects have changed. The application can then make requests to the Graph API to get the updated data.
+The solution was to use Facebook's [Real-time Updates](http://developers.facebook.com/docs/reference/api/realtime) feature. The general concept of the Real-time Updates feature is that an application subscribes to updates for a particular type of object (users, permissions, or pages). When one of those objects changes within Facebook, Facebook will make an http POST request to your application with data about which objects and which fields of those objects have changed. The application can then make requests to the Graph API to get the updated data.
 
-At first glance that seems simple enough, however, there are a few minor details that need to be addressed to get things working. Those details mostly have to do with successfully creating the subscription. Creating the subscription requires making a POST request to <pre>https://graph.facebook.com/&lt;app-id&gt;/subscriptions?access_token=...</pre>
+At first glance that seems simple enough, however, there are a few minor details that need to be addressed to get things working. Those details mostly have to do with successfully creating the subscription. Creating the subscription requires making a POST request to
+
+`https://graph.facebook.com/<pp-id>/subscriptions?access_token=...`
+
 The body of your request should contain parameters for:
 
 * object - the type of object you are interested in updates about
@@ -19,11 +22,13 @@ The body of your request should contain parameters for:
 * callback_url - the url that Facebook will post updates to
 * verify_token - a token that will be echoed back during verification of your callback
 
-The first detail to be aware of is that Facebook is going to make a GET request to your callback url to verify it exists, so passing <pre>http://localhost:3000/facebook_callback</pre>
+The first detail to be aware of is that Facebook is going to make a GET request to your callback url to verify it exists, so passing
+
+`http://localhost:3000/facebook_callback`
 
 isn't going to work. Facebook needs to be able to get to your url. In our case this meant testing the external integration in a staging environment.
 
-<pre>http://my-cool-app-staging.heroku.com/facebook_callback</pre>
+`http://my-cool-app-staging.heroku.com/facebook_callback`
 
 The second detail to be aware of is that the application needs to be able to handle two concurrent threads. The subscription request to Facebook is the first thread and will block waiting for Facebook's response. Before Facebook creates the subscription they will call your callback url to verify it, this is the second thread. In the Heroku world, this means you have to have at least <strong>two</strong> dynos available for the subscription to succeed.
 

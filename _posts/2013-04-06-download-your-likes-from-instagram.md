@@ -3,33 +3,33 @@ layout: post
 title: Download all the photos you've liked on Instagram
 ---
 
-h2. {{ page.title }}
+## {{ page.title }}
 
-Adam Duke | 06 April 2013
+Adam Duke \| 06 April 2013
 
-h4. Update
+#### Update
 
-# I took what I learned from writing this script and wrapped it up in a "web app":http://www.likelist.me that will keep track of your likes for you. Please email me if you have any feedback.
-# In addition to using the 'users/self/media/liked/' endpoint shown below, any paged endpoint from the api can be used in the for the starting 'media_url'.
+1. I took what I learned from writing this script and wrapped it up in a [web app](http://www.likelist.me) that will keep track of your likes for you. Please email me if you have any feedback.
+1. In addition to using the 'users/self/media/liked/' endpoint shown below, any paged endpoint from the api can be used in the for the starting 'media_url'.
 
 I recently discovered that Instagram will only ever return the last ~300 likes when trying to view the history of the things you've liked. I'm not sure if I'm the only one, but finding that out bothered me. I use the like feature to bookmark photos that I want to check out later, as well as letting someone know that I like their photo. I decided to build something that would help me keep track of my likes for the long term.
 
 I broke my effort into a few parts:
 
-# Learning how to work with the API
-# Getting the correct data from Instagram
-# Parsing the data
-# Saving the photos
+1. Learning how to work with the API
+1. Getting the correct data from Instagram
+1. Parsing the data
+1. Saving the photos
 
-h4. Learning how to work with the API
+#### Learning how to work with the API
 
 The Instagram API requires a <tt>client_id</tt> parameter in most cases, and an <tt>access_token</tt> parameter in cases where the request is on behalf of a user such as commenting or liking.
 
-A quick check of the documentation at "instagram.com":http://instagram.com/developer/ shows that there is an API endpoint that will return a list of a signed-in user's likes. The documentation for that endpoint is "here":http://instagram.com/developer/endpoints/users/.
+A quick check of the documentation at [instagram.com](http://instagram.com/developer) shows that there is an API endpoint that will return a list of a signed-in user's likes. The documentation for that endpoint is [here](http://instagram.com/developer/endpoints/users).
 
-Instagram considers the list of a user's likes to be private, so it will require the additional <tt>access_token</tt> parameter. The first step is getting a <tt>client_id</tt> by registering a new application "http://instagram.com/developer/clients/manage/":http://instagram.com/developer/clients/manage/. Once you have registered your application, you should see something similar to below. (Note that the application has been deleted so there's no worry about leaking secrets/tokens)
+Instagram considers the list of a user's likes to be private, so it will require the additional <tt>access_token</tt> parameter. The first step is getting a <tt>client_id</tt> by registering a new application [http://instagram.com/developer/clients/manage/](http://instagram.com/developer/clients/manage). Once you have registered your application, you should see something similar to below. (Note that the application has been deleted so there's no worry about leaking secrets/tokens)
 
-div(bordered_image). !/blog_content/instagram/manage_instagram_apps.png!
+![mange instagram apps](/blog_content/instagram/manage_instagram_apps.png)
 
 The second step is getting a valid access_token that can be used to make authenticated API calls.
 
@@ -41,9 +41,9 @@ where CLIENT-ID is the client id you got when registering your new application, 
 
 ex.
 
-div(bordered_image). !/blog_content/instagram/instagram_access_token_in_fragment.png!
+![instagram access token in fragment](/blog_content/instagram/instagram_access_token_in_fragment.png)
 
-h4. Getting the correct data from Instagram
+#### Getting the correct data from Instagram
 
 Now we have everything we need to get data back from instagram. Let's create a ruby script so we can keep track of the steps we're running and make them repeatable. Create a file named ig_downloader.rb and we'll build from there.
 
@@ -58,7 +58,7 @@ json = JSON.parse(response)
 pretty_json = JSON.pretty_generate(json)
 {% endhighlight %}
 
-h4. Parsing the data
+#### Parsing the data
 
 This request above will return a json response. The response will have the <tt>"data"</tt> key, and its value is the array of likes that we are interested in. If we trim one of the likes down to the keys that will be useful for us, we're left with the following:
 
@@ -115,7 +115,7 @@ http://distilleryimage1.s3.amazonaws.com/1a75c70e944511e280cd22000a9f18de_7.jpg
 http://distilleryimage9.s3.amazonaws.com/ba87806a93ce11e2ab0f22000a9f305a_7.jpg
 </code></pre>
 
-h4. Saving the photos
+#### Saving the photos
 
 Now that we have all the urls, we can download each image and save it to a file. Add the following snippet to your script and try running it.
 
@@ -163,6 +163,6 @@ urls.each_with_index do |url, idx|
 end
 {% endhighlight %}
 
-There are a number of other optimizations/modifications that can be added including not downloading images that we already have, saving the url for the image, etc... A more polished version of the script including some small extras can be found "in this gist":https://gist.github.com/adamvduke/3828633.
+There are a number of other optimizations/modifications that can be added including not downloading images that we already have, saving the url for the image, etc... A more polished version of the script including some small extras can be found [in this gist](https://gist.github.com/adamvduke/3828633).
 
 If you find any bugs or have any feedback at all feel free to send me an email.

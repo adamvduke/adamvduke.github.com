@@ -1,0 +1,56 @@
+---
+layout: post
+title: Auto-scale workers on Heroku with the workless gem
+---
+
+## {{ page.title }}
+
+Adam Duke \| 19 April 2013
+
+#### Problem
+
+We all know that performing long running tasks during an http request is a bad idea. There are tools out there like [delayed_job](https://github.com/collectiveidea/delayed_job) and [resque](https://github.com/resque/resque) to help us put jobs on a queue and process them later using a worker. On [Heroku](https://www.heroku.com) this means running a worker to process the jobs we're queueing, but running a worker continuously costs about $36/month regardless of the amount of processing your app actually requires.
+
+#### Solution
+
+Enter [workless](https://github.com/lostboy/workless), an extension for Delayed Job to only run workers when needed on Heroku. Workless starts up a worker process when there are jobs to be processed, and shuts the worker back down when all the jobs have been completed. Now your Heroku bill will add up based on your actual worker processing needs.
+
+#### Adding workless to your Rails app
+
+Add workless to your Gemfile
+
+{% highlight ruby %}
+gem 'workless'
+{% endhighlight %}
+
+Add an after_initialize block to your config/environments/production.rb to set up the scaler
+{% highlight ruby %}
+config.after_initialize do
+  Delayed::Job.scaler = :heroku_cedar
+end
+{% endhighlight %}
+
+Add your Heroku API key and app name to heroku config so workless can access the Heroku API on your behalf
+
+{% highlight bash %}
+heroku config:add HEROKU_API_KEY=yourapikey APP_NAME=yourherokuappname
+{% endhighlight %}
+
+#### Additional configuration options
+
+Workless has a few different scalers to choose from.
+
+{% highlight ruby %}
+Delayed::Job.scaler = :null # no scaler
+Delayed::Job.scaler = :heroku # used on the aspen and bamboo stacks, but you don't need to set this
+Delayed::Job.scaler = :heroku_cedar # used on the cedar stack
+Delayed::Job.scaler = :local # used for local development
+{% endhighlight %}
+
+There are also some experimental features for the cedar stack to allow scaling multiple workers based on the current workload.
+
+{% highlight bash %}
+heroku config:add WORKLESS_MAX_WORKERS=10
+heroku config:add WORKLESS_MIN_WORKERS=0
+heroku config:add WORKLESS_WORKERS_RATIO=50
+{% endhighlight %}
