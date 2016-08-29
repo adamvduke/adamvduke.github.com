@@ -55,7 +55,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/kolinkrewinkel/KKGridView" target="_blank">KKGridView:</a> An easy to use grid control for iOS </li>
     <li><a href="https://github.com/google/lmctfy" target="_blank">lmctfy:</a> the open source version of Google’s container stack, which provides Linux application containers. </li>
     <li><a href="https://github.com/jverkoey/nimbus" target="_blank">nimbus:</a> The iOS framework whose growth is bounded by its documentation. </li>
-    <li><a href="https://github.com/FooBarWidget/passenger" target="_blank">passenger:</a> Phusion Passenger application server for Ruby, Python, Node.js and more </li>
+    <li><a href="https://github.com/phusion/passenger" target="_blank">passenger:</a> Phusion Passenger application server for Ruby, Python, Node.js and more </li>
     <li><a href="https://github.com/probablycorey/seriously" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
     <li><a href="https://github.com/phstc/sidekiq-statsd" target="_blank">sidekiq-statsd:</a> A Sidekiq server middleware to send Sidekiq worker metrics through statsd</li>
     <li><a href="https://github.com/dmolsen/Throttle" target="_blank">Throttle:</a> A node.js app to help test how a website performs on poor network connections. </li>
