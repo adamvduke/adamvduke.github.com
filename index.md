@@ -19,6 +19,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/adamvduke/bcrypt-cli" target="_blank">bcrypt-cli:</a> Wraps golang.org/x/crypto/bcrypt in a cli </li>
     <li><a href="https://github.com/adamvduke/docker-ruby-build" target="_blank">docker-ruby-build:</a> A projec to build ruby deb packages in a docker container</li>
     <li><a href="https://github.com/adamvduke/FMDB-Helper" target="_blank">FMDB-Helper:</a> Classes to help when using Sqlite and FMDB</li>
     <li><a href="https://github.com/adamvduke/gem-in-a-container" target="_blank">gem-in-a-container:</a> A docker container running <a href="https://github.com/geminabox/geminabox" target="_blank">geminabox</a></li>
@@ -42,6 +43,8 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/docker/distribution" target="_blank">distribution:</a> The Docker toolset to pack, ship, store, and deliver content </li>
     <li><a href="https://github.com/defunkt/dotjs" target="_blank">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
+    <li><a href="https://github.com/CleverTap/go-apns-server" target="_blank">go-apns-server:</a> A quick and dirty script to mock the new HTTP/2 interface to Apple's push gateway </li>
+    <li><a href="https://github.com/bmhatfield/go-runtime-metrics" target="_blank">go-runtime-metrics:</a> Collect Golang Runtime Metrics, outputting to a stats handler </li>
     <li><a href="https://github.com/twitter-fabric/galley" target="_blank">galley:</a> Orchestrator for local Docker containers</li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
