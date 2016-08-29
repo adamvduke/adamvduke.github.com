@@ -39,11 +39,13 @@ title: Adam Vincent Duke
   <ul>
     <li><a href="https://github.com/airbrake/airbrake" target="_blank">airbrake:</a> The official Airbrake library for Ruby on Rails. </li>
     <li><a href="https://github.com/airbrake/airbrake-ios" target="_blank">airbrake-ios:</a> An Airbrake Notifier for iOS </li>
+    <li><a href="https://github.com/docker/distribution" target="_blank">distribution:</a> The Docker toolset to pack, ship, store, and deliver content </li>
     <li><a href="https://github.com/defunkt/dotjs" target="_blank">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
     <li><a href="https://github.com/twitter-fabric/galley" target="_blank">galley:</a> Orchestrator for local Docker containers</li>
     <li><a href="https://github.com/github/github-services" target="_blank">github-services:</a> Official GitHub Services Integration </li>
     <li><a href="https://github.com/adamvduke/github-tmbundle" target="_blank">github-tmbundle:</a> TextMate bundle for working with GitHub </li>
+    <li><a href="https://github.com/github/gh-ost" target="_blank">gh-ost:</a> GitHub's Online Schema Change for MySQL </li>
     <li><a href="https://github.com/grocer/grocer" target="_blank">grocer:</a> Pushing your Apple notifications since 2012 </li>
     <li><a href="https://github.com/heroku/heroku-pg-extras" target="_blank">heroku-pg-extras:</a> heroku pg:ps </li>
     <li><a href="https://github.com/github/hubot" target="_blank">hubot:</a> A customizable, kegerator-powered life embetterment robot. </li>
