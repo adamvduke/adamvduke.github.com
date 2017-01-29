@@ -1,0 +1,9 @@
+<script type="text/javascript">
+  (function() {
+    var location = window.location;
+    if(location.hostname === "adamvduke.github.io" || location.hostname === "adamvduke.github.com") {
+      var newLocation = "https://adamvduke.com" + location.search + location.hash;
+      window.location = newLocation;
+    }
+  })();
+</script>
