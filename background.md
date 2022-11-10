@@ -13,7 +13,11 @@ Experienced software engineer with a strong bias to shipping. Versed in many pop
 
 ## Experience
 
-**Software Engineer**, Twitter, Cambridge, MA (January 2014 – present)
+**Software Engineer**, Google, Cambridge, MA (January 2017 – present)
+
+* TBD
+
+**Software Engineer**, Twitter, Cambridge, MA (January 2014 – 2017)
 
 * Responsible for inviting the first 1000 customers to [Fabric](https://get.fabric.io) at Twitter's inaugural developer conference
 * Launched [get.fabric.io](https://get.fabric.io), the logged out experience for Fabric
