@@ -19,6 +19,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/adamvduke/ADEngineBlock/" target="_blank">ADEngineBlock:</a> An MGTwitterEngine Replacement, with Objective-C blocks for callbacks</li>
     <li><a href="https://github.com/adamvduke/ADiOSUtilities" target="_blank">ADiOSUtilities:</a> A collection of static libraries with re-useable iOS awesomeness </li>
     <li><a href="https://github.com/adamvduke/ADOAuthorizeiOS" target="_blank">ADOAuthorizeiOS:</a> A framework to simplify the OAuth flow on iOS devices</li>
+    <li><a href="https://github.com/google/apt-golang-s3" target="_blank">apt-golang-s3:</a> An s3 transport method for the apt package management system</li>
     <li><a href="https://github.com/adamvduke/bcrypt-cli" target="_blank">bcrypt-cli:</a> Wraps golang.org/x/crypto/bcrypt in a cli </li>
     <li><a href="https://github.com/adamvduke/docker-ruby-build" target="_blank">docker-ruby-build:</a> A projec to build ruby deb packages in a docker container</li>
     <li><a href="https://github.com/adamvduke/FMDB-Helper" target="_blank">FMDB-Helper:</a> Classes to help when using Sqlite and FMDB</li>
@@ -40,9 +41,11 @@ title: Adam Vincent Duke
   <ul>
     <li><a href="https://github.com/airbrake/airbrake" target="_blank">airbrake:</a> The official Airbrake library for Ruby on Rails. </li>
     <li><a href="https://github.com/airbrake/airbrake-ios" target="_blank">airbrake-ios:</a> An Airbrake Notifier for iOS </li>
+    <li><a href="https://chromium.googlesource.com/breakpad/breakpad/" target="_blank">breakpad:</a> A set of client and server components which implement a crash-reporting system. </li>
     <li><a href="https://github.com/docker/distribution" target="_blank">distribution:</a> The Docker toolset to pack, ship, store, and deliver content </li>
     <li><a href="https://github.com/defunkt/dotjs" target="_blank">dotjs:</a> Run javascript hosted in ~/.js in your browser </li>
     <li><a href="https://github.com/facebook/facebook-ios-sdk" target="_blank">facebook-ios-sdk:</a> Facebook SDK for iOS </li>
+    <li><a href="https://github.com/Flank/flank" target="_blank">Flank:</a> 🚤 Massively parallel Android and iOS test runner for Firebase Test Lab </li>
     <li><a href="https://github.com/CleverTap/go-apns-server" target="_blank">go-apns-server:</a> A quick and dirty script to mock the new HTTP/2 interface to Apple's push gateway </li>
     <li><a href="https://github.com/bmhatfield/go-runtime-metrics" target="_blank">go-runtime-metrics:</a> Collect Golang Runtime Metrics, outputting to a stats handler </li>
     <li><a href="https://github.com/twitter-fabric/galley" target="_blank">galley:</a> Orchestrator for local Docker containers</li>
