@@ -12,6 +12,7 @@ title: Adam Vincent Duke
   </ul>
   <h2>Talks</h2>
   <ul>
+    <li><a href="https://www.youtube.com/watch?v=FrORBGrZpdM" target="_blank">Google Firebase Summit 2022 - Advanced alerting for Firebase Release and Monitoring products</a></li>
     <li><a href="https://speakerdeck.com/adamvduke/ios-push-notifications-zero-to-engagement" target="_blank">iOS Push Notifications - Zero To Engagement</a></li>
   </ul>
   <h2>Open Source Projects</h2>
