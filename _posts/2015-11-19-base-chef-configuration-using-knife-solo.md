@@ -76,7 +76,7 @@ node.set['users'] = ['adamd']
 include_recipe 'user::data_bag'
 {% endhighlight %}
 
-Create the data bag for your user by adding a file to data_bags/users/<user-name>.json with content similar to the following:
+Create the data bag for your user by adding a file to data_bags/users/\<user-name\>.json with content similar to the following:
 
 {% highlight json %}
 {
