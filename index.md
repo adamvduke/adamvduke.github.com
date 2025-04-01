@@ -72,6 +72,7 @@ title: Adam Vincent Duke
     <li><a href="https://github.com/probablycorey/seriously/commits?author=adamvduke" target="_blank">Seriously:</a> The Objective-C http library that Apple should have created, seriously. </li>
     <li><a href="https://github.com/phstc/sidekiq-statsd/commits?author=adamvduke" target="_blank">sidekiq-statsd:</a> A Sidekiq server middleware to send Sidekiq worker metrics through statsd</li>
     <li><a href="https://github.com/dmolsen/Throttle/commits?author=adamvduke" target="_blank">Throttle:</a> A node.js app to help test how a website performs on poor network connections. </li>
+    <li><a href="https://github.com/traefik/traefik/commits?author=adamvduke" target="_blank">traefik:</a> The Cloud Native Application Proxy </li>
     <li><a href="https://github.com/hashicorp/vagrant/issues?q=is%3Apr%20state%3Aclosed%20author%3Aadamvduke" target="_blank">Vagrant:</a> Vagrant is a tool for building and distributing virtualized development environments. </li>
     <li><a href="https://github.com/robbiehanson/XMPPFramework/commits?author=adamvduke" target="_blank">XMPPFramework:</a> An XMPP Framework in Objective-C for Mac and iOS </li>
   </ul>
